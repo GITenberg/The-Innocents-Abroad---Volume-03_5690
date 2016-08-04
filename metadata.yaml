@@ -1,0 +1,35 @@
+_repo: The-Innocents-Abroad---Volume-03_5690
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 5690/5690-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2004-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5690'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Middle East -- Description and travel'
+- !lcsh 'Europe -- Description and travel'
+- !lcsh 'Voyages and travels'
+- GITenberg
+title: The Innocents Abroad — Volume 03
+url: http://www.gutenberg.org/ebooks/5690
